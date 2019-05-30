@@ -5,7 +5,7 @@ function addAnchorLink(){
     var sectionId = "section";  
     sectionId = sectionId+i;
     $(this).attr('id',sectionId);
-    $(this).wrap('<a href="#'+sectionId+'"></a>');
+    $(this).wrap('<a href="#'+sectionId+'" class="anchorLink"></a>');
     $(this).prepend('<ion-icon name="ios-link"></ion-icon>');
   });
   $('h3').hover(function(){
