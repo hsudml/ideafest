@@ -28,6 +28,11 @@ h1 {
   font-size: 1.5rem;
 }
 
+a.anchorLink:hover {
+  text-decoration: none;
+  color: rgba(21,153,87,1);
+}
+
 .project-name {
     text-shadow: 2vw 2vw 2px rgba(0,0,0,0.1);
     font-size: 15vw;
@@ -39,3 +44,8 @@ h1 {
   font-size: 3rem;
 }
 
+ion-icon {
+  position: absolute;
+  margin-left: -4rem;
+  display: none;
+}
