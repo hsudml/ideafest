@@ -8,7 +8,7 @@ The Digital Media Lab (DML) has participated in [ideaFest](https://www2.humboldt
 #### VR Station Showcase 
 The launch of the VR Station in March, 2019, was followed up by a showcase of some of the interesting virtual reality (VR), augmented reality (AR) and 3D animations projects at Humboldt State. We had exhibits from students and faculty on a variety of topics that demonstrate the innovative work that is being done across the campus. 
 
-2019 ideaFest Overview
+[2019 ideaFest Overview](https://hsudml.github.io/ideafest2019)
 + [Modern Times](https://hsudml.github.io/ideafest2019/#section0), AR animation by Ron Homer
 + [Destroyer of Trees](https://hsudml.github.io/ideafest2019/#section1), AR animation by Ron Homer
 + [The Scope of Special Collections: An Augmented Reality Tour](https://hsudml.github.io/ideafest2019/#section2), AR interactive tour by Alyssa Johnson & Katelyn Brady
@@ -22,7 +22,7 @@ The launch of the VR Station in March, 2019, was followed up by a showcase of so
 
 #### Digital Story Showcase
 
-2018 ideaFest Overview
+[2018 ideaFest Overview](https://hsudml.github.io/ideafest2018)
 + [Student Snapshots](https://hsudml.github.io/ideafest2018/#section0), HSU Student Snapshots is a collection of video stories from Humboldt State University (HSU) students in their own voice. Videos by Vanessa Cota, Rosibeth Cuevas, Phil Santos, and Grecia Alfaro. 
 + [We Are Your Community](https://hsudml.github.io/ideafest2018/#section1), Erin Youngblood-Smith and Amy Mathieson are two Masters of Social Work (MSW) students at Humboldt State University focusing on sharing the experiences of African American students with the community. 
 
