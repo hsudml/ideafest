@@ -17,7 +17,13 @@ h1 {
   font-family: lobster;
 }
 
-h4 {    
+.main-content h3 {
+  font-family: lobster;
+  color: rgba(21,153,87,0.7);
+  font-size: 4rem;
+}
+
+.main-content h4 {    
   font-weight: bold;
   font-size: 1.5rem;
 }
@@ -33,8 +39,3 @@ h4 {
   font-size: 3rem;
 }
 
-.main-content h3 {
-  font-family: lobster;
-  color: rgba(21,153,87,0.7);
-  font-size: 4rem;
-}
