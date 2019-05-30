@@ -1,4 +1,6 @@
-## HSU Digital Media Lab at ideaFest
+# ideaFest
+
+## HSU Digital Media Lab Exhibits
 The Digital Media Lab (DML) has participated in [ideaFest](https://www2.humboldt.edu/ideafest/) with special exhibits since 2018. The goal of the DML is to promote and create visibility for digital projects that students are creating at HSU. If you have a digital project and are interested in being part of ideaFest (or know someone else who does), let us know! You can email us at dml@humboldt.edu. 
 
 ### ideaFest 2019
