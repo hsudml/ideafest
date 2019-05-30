@@ -5,6 +5,14 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster|Roboto:300,400,500,700,900&display=swap');
 @import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
 
+body {
+  background-image: url(../../images/blurryGroup.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position-y: 40%;
+}
+
 h1 {
   font-family: lobster;
 }
